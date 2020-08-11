@@ -1,0 +1,27 @@
+instalando o pacote package.json
+
+npm init -y
+
+instalando o pacote package-lock.json
+
+npm install express
+
+instalando servidor com node (baixa a versão recente do node.js - lts)
+
+node src/server.js
+
+npm install nodemon -D
+
+abra a pasta package.json e troque "test" por "dev"
+
+no terminal execute o comando:
+
+npm run dev - agora o servidor ira executa apartir desse comando 
+
+npm install nunjucks - templete par ao html
+
+
+SQlite - Structured Query Language
+ instalando o npm install sqlite-async
+para abrir o db - node src/database/db.js
+

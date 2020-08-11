@@ -1,0 +1,37 @@
+// dados 
+const proffys = [
+    { 
+      name: "Diego Fernandes", 
+      avatar: "https://avatars2.githubusercontent.com/u/2254731?s=460&amp;u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&amp;v=4" , 
+      whatsapp: "8699984756", 
+      bio:"Entusiasta das melhores tecnologias de química avançada. Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões." , 
+      subject: "Química", 
+      cost: "20" , 
+      weekday: [0], 
+      time_from:  [720], 
+      time_to: [1220] 
+    },
+    { 
+        name: "Mayk Brito", 
+        avatar: "https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" , 
+        whatsapp: "8699867898", 
+        bio:"Instrutor de Educação Física para iniciantes, minha missão de vida é levar saúde e contribuir para a crescimento de quem se interessar.  Comecei a minha jornada profissional em 2001, quando meu pai me deu dois alteres de 32kg com a seguinte condição. Aprenda a fazer dinheiro com isso!" , 
+        subject: "Educação Física", 
+        cost: "40" , 
+        weekday: [0], 
+        time_from:  [720], 
+        time_to: [1220] 
+    },
+    { 
+        name: "Rosana Oliveira", 
+        avatar: "https://avatars3.githubusercontent.com/u/53317405?s=400&u=d220c9b63d5a80f68ef33c1f5826d4306e09ed53&v=4" , 
+        whatsapp: "8681308495", 
+        bio:"Uma developer em construção. Apaixonada por tecnologia! Focada em programação Stack." , 
+        subject: "Sistemas de Informação", 
+        cost: "360" , 
+        weekday: [0], 
+        time_from:  [720], 
+        time_to: [1220] 
+    }
+]
+
