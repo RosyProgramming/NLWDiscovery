@@ -6,9 +6,6 @@
 
 <h1 align="center">Next Level Week, second edition, project "Proffy".</h1>
 
-
-<h1 align="center">Next Level Week, second edition, project "Proffy".</h1>
-
 <h2 align="center">About 📖</h2>
 
 **The Proffy project**, an online learning platform, was an open-source project developed during **[Next Level Week](https://nextlevelweek.com/)**, which took place between 03/08 until 14/08, from the **[@Rocketseat](https://github.com/rocketseat)** class, by the web development instructor for beginners in programming, **[@MaykBrito](https://github.com/maykbrito)**. 
